@@ -4,9 +4,8 @@
 
 
 ### 1. Post a selfie
-![alt text][selfie]
 
-![img_2229](https://user-images.githubusercontent.com/30231031/35526773-8af34458-04f6-11e8-903d-2c7ba614ae42.jpg)
+![12548961_929495413771372_3859805106227049355_n](https://user-images.githubusercontent.com/30231031/35526946-280557ea-04f7-11e8-8153-7924205e397e.jpg)
 
 
 ### 2. Tell me something interesting about yourself 
