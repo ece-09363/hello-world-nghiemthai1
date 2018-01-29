@@ -3,9 +3,11 @@
 * HELLO WORLD
 
 
-1. Post a selfie
+### 1. Post a selfie
 ![alt text][selfie]
 
-[selfie]: IMG_20180129_125611.jpg
+![img_2229](https://user-images.githubusercontent.com/30231031/35526773-8af34458-04f6-11e8-903d-2c7ba614ae42.jpg)
 
-2. Tell me something interesting about yourself
+
+### 2. Tell me something interesting about yourself 
+My name is Thai. I'm also a Computer Science Minor and I am an International student from Vietnam. 
