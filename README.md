@@ -9,4 +9,4 @@
 
 
 ### 2. Tell me something interesting about yourself 
-My name is Thai. I'm also a Computer Science Minor and I am an International student from Vietnam. 
+My name is Thai. I'm also a Computer Science Minor and I am an International student from Vietnam. I can also speak a little Korean. 
